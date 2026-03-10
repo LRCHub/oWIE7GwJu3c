@@ -1,0 +1,176 @@
+{
+  "version": 1,
+  "base_track": "Angelic Angel",
+  "base_artist": "μ's",
+  "createdAt": "2026-03-10T08:13:47.215475Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Angelic Angel (RIN Mix)",
+      "artist": "星空 凛(CV.飯田里穂)",
+      "has_synced": true,
+      "path": "select/01_Angelic_Angel_(RIN_Mix)_星空_凛(CV.飯田里穂).lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Angelic Angel",
+      "artist": "μ's",
+      "has_synced": true,
+      "path": "select/02_Angelic_Angel_μ's.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Angelic Angel (ELI Mix)",
+      "artist": "絢瀬絵里(CV.南條愛乃)",
+      "has_synced": true,
+      "path": "select/03_Angelic_Angel_(ELI_Mix)_絢瀬絵里(CV.南條愛乃).lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Angelic Angel (HONOKA Mix)",
+      "artist": "高坂穂乃果(CV.新田恵海)",
+      "has_synced": true,
+      "path": "select/04_Angelic_Angel_(HONOKA_Mix)_高坂穂乃果(CV.新田恵海).lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Angelic Angel (HANAYO Mix)",
+      "artist": "小泉花陽(CV.久保ユリカ)",
+      "has_synced": false,
+      "path": "select/05_Angelic_Angel_(HANAYO_Mix)_小泉花陽(CV.久保ユリカ).txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Angelic Angel (KOTORI Mix)",
+      "artist": "南ことり(CV.内田 彩)",
+      "has_synced": true,
+      "path": "select/06_Angelic_Angel_(KOTORI_Mix)_南ことり(CV.内田_彩).lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Angelic Angel (MAKI Mix)",
+      "artist": "西木野真姫(CV.Pile)",
+      "has_synced": false,
+      "path": "select/07_Angelic_Angel_(MAKI_Mix)_西木野真姫(CV.Pile).txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Angelic Angel (RIN Mix)",
+      "artist": "星空凛(CV.飯田里穂)",
+      "has_synced": true,
+      "path": "select/08_Angelic_Angel_(RIN_Mix)_星空凛(CV.飯田里穂).lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Angelic Angel (NICO Mix)",
+      "artist": "矢澤にこ(CV.徳井青空)",
+      "has_synced": false,
+      "path": "select/09_Angelic_Angel_(NICO_Mix)_矢澤にこ(CV.徳井青空).txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Angelic Angel (UMI Mix)",
+      "artist": "園田海未(CV.三森すずこ)",
+      "has_synced": true,
+      "path": "select/10_Angelic_Angel_(UMI_Mix)_園田海未(CV.三森すずこ).lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Angelic Angel",
+      "artist": "Pile",
+      "has_synced": false,
+      "path": "select/11_Angelic_Angel_Pile.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Angelic Angel",
+      "artist": "三森すずこ",
+      "has_synced": true,
+      "path": "select/12_Angelic_Angel_三森すずこ.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Angelic Angel",
+      "artist": "新田恵海",
+      "has_synced": false,
+      "path": "select/13_Angelic_Angel_新田恵海.txt"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Angelic Angel",
+      "artist": "徳井青空",
+      "has_synced": false,
+      "path": "select/14_Angelic_Angel_徳井青空.txt"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Angelic Angel",
+      "artist": "南條愛乃",
+      "has_synced": true,
+      "path": "select/15_Angelic_Angel_南條愛乃.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Angelic Angel",
+      "artist": "μ's",
+      "has_synced": true,
+      "path": "select/16_Angelic_Angel_μ's.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "Angelic Angel",
+      "artist": "μ's",
+      "has_synced": true,
+      "path": "select/17_Angelic_Angel_μ's.lrc"
+    },
+    {
+      "id": "lrclib_18",
+      "source": "lrclib",
+      "title": "Angelic Angel (ELI Mix)",
+      "artist": "絢瀬絵里",
+      "has_synced": true,
+      "path": "select/18_Angelic_Angel_(ELI_Mix)_絢瀬絵里.lrc"
+    },
+    {
+      "id": "lrclib_19",
+      "source": "lrclib",
+      "title": "Angelic Angel (HANAYO Mix)",
+      "artist": "小泉花陽",
+      "has_synced": false,
+      "path": "select/19_Angelic_Angel_(HANAYO_Mix)_小泉花陽.txt"
+    },
+    {
+      "id": "lrclib_20",
+      "source": "lrclib",
+      "title": "Angelic Angel (HONOKA Mix)",
+      "artist": "高坂穂乃果",
+      "has_synced": true,
+      "path": "select/20_Angelic_Angel_(HONOKA_Mix)_高坂穂乃果.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Angelic Angel",
+      "artist": "μ's",
+      "has_synced": false,
+      "path": "select/pl_01_Angelic_Angel_μ's.txt"
+    }
+  ]
+}
